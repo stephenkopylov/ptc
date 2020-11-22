@@ -2,15 +2,23 @@
   "timeToWait": 300,
   "products": [
     {
+      "link": "https://sonycentercy.com/playstation-5/2187-sony-playstation-5-digital-edition-0711719395102.html",
+      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]"
+    },
+    {
+      "link": "https://sonycentercy.com/playstation-5/2195-sony-ps5-dualsense-charging-station-charging-stand-0711719374107.html",
+      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]"
+    },
+    {
       "link": "https://www.public-cyprus.com.cy/product/sony-playstation-5-digital-edition/prod10810253pp/",
       "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']"
     },
     {
-      "link": "https://bionic.com.cy/products/sony-playstation-5-ps5-standard-edition",
+      "link": "https://bionic.com.cy/products/playstation-5-ps5-dualsense-charging-station",
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']"
     },
     {
-      "link": "https://bionic.com.cy/products/playstation-5-ps5-dualsense-charging-station",
+      "link": "https://bionic.com.cy/products/sony-playstation-5-ps5-standard-edition",
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']"
     }
   ]
