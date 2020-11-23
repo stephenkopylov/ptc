@@ -30,6 +30,10 @@
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']"
     },
     {
+      "link": "https://www.fidelitycenter.com.cy/product/sony-playstation-5/",
+      "xpath": "//button[@name='add-to-cart' and @class='single_add_to_cart_button button alt']"
+    },
+    {
       "link": "https://bionic.com.cy/products/playstation-5-ps5-pulse-3d-wireless-headset",
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']"
     },
