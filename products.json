@@ -14,11 +14,11 @@
       "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
     },
     {
-      "link": "https://musicalparadise.com/product/ps5-sony-dualsense-charging-station/",
+      "link": "https://musicalparadise.com/product/playstation-5-console-digital-edition/",
       "xpath": "//p[@class='stock in-stock']"
     },
     {
-      "link": "https://musicalparadise.com/product/playstation-5-console-digital-edition/",
+      "link": "https://musicalparadise.com/product/ps5-sony-dualsense-charging-station/",
       "xpath": "//p[@class='stock in-stock']"
     },
     {
