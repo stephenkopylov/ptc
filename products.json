@@ -10,8 +10,16 @@
       "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']"
     },
     {
+      "link": "https://www.mavroslarnaca.com/product-page/ps5-console-digital-edition",
+      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
+    },
+    {
       "link": "https://sonycentercy.com/playstation-5/2195-sony-ps5-dualsense-charging-station-charging-stand-0711719374107.html",
       "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]"
+    },
+    {
+      "link": "https://www.mavroslarnaca.com/product-page/ps5-dualsense-charging-station",
+      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
     },
     {
       "link": "https://bionic.com.cy/products/playstation-5-ps5-dualsense-charging-station",
@@ -28,6 +36,10 @@
     {
       "link": "https://sonycentercy.com/playstation-5/2190-sony-pulse-3d-wireless-headset-0711719387800.html",
       "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]"
+    },
+    {
+      "link": "https://www.mavroslarnaca.com/product-page/ps5-pulse-3d-wireless-headset",
+      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
     }
   ]
 }
