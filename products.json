@@ -14,6 +14,14 @@
       "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
     },
     {
+      "link": "https://musicalparadise.com/product/ps5-sony-dualsense-charging-station/",
+      "xpath": "//p[@class='stock in-stock']"
+    },
+    {
+      "link": "https://musicalparadise.com/product/playstation-5-console-digital-edition/",
+      "xpath": "//p[@class='stock in-stock']"
+    },
+    {
       "link": "https://sonycentercy.com/playstation-5/2195-sony-ps5-dualsense-charging-station-charging-stand-0711719374107.html",
       "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]"
     },
