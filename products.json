@@ -14,6 +14,10 @@
       "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
     },
     {
+      "link": "https://www.electroline.com.cy/products/computing/gaming130/gaming-consoles13022/sony-playstation-5-digital-version-white/",
+      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']"
+    },
+    {
       "link": "https://musicalparadise.com/product/playstation-5-console-digital-edition/",
       "xpath": "//p[@class='stock in-stock']"
     },
@@ -32,6 +36,10 @@
     {
       "link": "https://bionic.com.cy/products/playstation-5-ps5-dualsense-charging-station",
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']"
+    },
+    {
+      "link": "https://www.electroline.com.cy/products/computing/gaming130/gaming-consoles13022/sony-playstation-5-disc-version-white/",
+      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']"
     },
     {
       "link": "https://bionic.com.cy/products/sony-playstation-5-ps5-standard-edition",
