@@ -1,6 +1,11 @@
 {
   "timeToWait": 300,
   "products": [
+     {
+      "link": "https://sonycentercy.com/playstation-5/2190-sony-pulse-3d-wireless-headset-0711719387800.html",
+      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
+      "mute": true
+    },
     {
       "link": "https://sonycentercy.com/playstation-5/2187-sony-playstation-5-digital-edition-0711719395102.html",
       "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
@@ -69,11 +74,6 @@
     {
       "link": "https://bionic.com.cy/products/playstation-5-ps5-pulse-3d-wireless-headset",
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']",
-      "mute": false
-    },
-    {
-      "link": "https://sonycentercy.com/playstation-5/2190-sony-pulse-3d-wireless-headset-0711719387800.html",
-      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
       "mute": false
     },
     {
