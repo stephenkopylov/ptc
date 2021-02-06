@@ -3,35 +3,83 @@
   "products": [
     {
       "link": "https://sonycentercy.com/playstation-5/2187-sony-playstation-5-digital-edition-0711719395102.html",
-      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]"
+      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
+      "mute": false
     },
     {
       "link": "https://www.public-cyprus.com.cy/product/sony-playstation-5-digital-edition/prod10810253pp/",
-      "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']"
+      "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']",
+      "mute": false
     },
     {
       "link": "https://www.mavroslarnaca.com/product-page/ps5-console-digital-edition",
-      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']"
+      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']",
+      "mute": false
     },
     {
       "link": "https://www.electroline.com.cy/products/computing/gaming130/gaming-consoles13022/sony-playstation-5-digital-version-white/",
-      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']"
+      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']",
+      "mute": false
     },
     {
       "link": "https://musicalparadise.com/product/playstation-5-console-digital-edition/",
-      "xpath": "//p[@class='stock in-stock']"
+      "xpath": "//p[@class='stock in-stock']",
+      "mute": false
+    },
+    {
+      "link": "https://musicalparadise.com/product/ps5-sony-dualsense-charging-station/",
+      "xpath": "//p[@class='stock in-stock']",
+      "mute": false
+    },
+    {
+      "link": "https://bionic.com.cy/products/playstation-5-ps5-dualsense-charging-station",
+      "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']",
+      "mute": false
+    },
+    {
+      "link": "https://sonycentercy.com/playstation-5/2195-sony-ps5-dualsense-charging-station-charging-stand-0711719374107.html",
+      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
+      "mute": false
+    },
+    {
+      "link": "https://www.electroline.com.cy/products/computing/gaming130/accessories13022/sony-playstation-5-dual-sense-charging-station/",
+      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']",
+      "mute": false
+    },
+    {
+      "link": "https://www.mavroslarnaca.com/product-page/ps5-dualsense-charging-station",
+      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']",
+      "mute": false
     },
     {
       "link": "https://www.electroline.com.cy/products/computing/gaming130/gaming-consoles13022/sony-playstation-5-disc-version-white/",
-      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']"
+      "xpath": "//div[@class='single-product-slider-and-details']//button[@class='single-product-add-to-cart-submit']",
+      "mute": false
     },
     {
       "link": "https://bionic.com.cy/products/sony-playstation-5-ps5-standard-edition",
-      "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']"
+      "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']",
+      "mute": false
     },
     {
       "link": "https://www.fidelitycenter.com.cy/product/sony-playstation-5/",
-      "xpath": "//button[@name='add-to-cart' and @class='single_add_to_cart_button button alt']"
+      "xpath": "//button[@name='add-to-cart' and @class='single_add_to_cart_button button alt']",
+      "mute": false
+    },
+    {
+      "link": "https://bionic.com.cy/products/playstation-5-ps5-pulse-3d-wireless-headset",
+      "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']",
+      "mute": false
+    },
+    {
+      "link": "https://sonycentercy.com/playstation-5/2190-sony-pulse-3d-wireless-headset-0711719387800.html",
+      "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
+      "mute": false
+    },
+    {
+      "link": "https://www.mavroslarnaca.com/product-page/ps5-pulse-3d-wireless-headset",
+      "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']",
+      "mute": false
     }
   ]
 }
