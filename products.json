@@ -74,12 +74,12 @@
     {
       "link": "https://bionic.com.cy/products/playstation-5-ps5-pulse-3d-wireless-headset",
       "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']",
-      "mute": false
+      "mute": true
     },
     {
       "link": "https://www.mavroslarnaca.com/product-page/ps5-pulse-3d-wireless-headset",
       "xpath": "//button[@data-hook='add-to-cart' and @aria-disabled = 'false']",
-      "mute": false
+      "mute": true
     }
   ]
 }
