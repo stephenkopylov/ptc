@@ -1,10 +1,15 @@
 {
   "timeToWait": 300,
   "products": [
-     {
+    {
       "link": "https://sonycentercy.com/playstation-5/2190-sony-pulse-3d-wireless-headset-0711719387800.html",
       "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
       "mute": true
+    },
+    {
+      "link": "https://www.public-cyprus.com.cy/product/gaming/consoles/ps5/sony-playstation-5-konsola-leyko/prod10238545pp/",
+      "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']",
+      "mute": false
     },
     {
       "link": "https://sonycentercy.com/playstation-5/2187-sony-playstation-5-digital-edition-0711719395102.html",
