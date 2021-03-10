@@ -7,7 +7,17 @@
       "mute": true
     },
     {
+      "link": "https://bionic.com.cy/products/xbox-series-x-1tb-ssd-with-1-controller",
+      "xpath": "//div[@class='main-container']/div[@class='product-container ']//form[@class='add_to_cart_products__form']/button[@type='submit']",
+      "mute": false
+    },
+    {
       "link": "https://www.public-cyprus.com.cy/product/gaming/consoles/ps5/sony-playstation-5-konsola-leyko/prod10238545pp/",
+      "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']",
+      "mute": false
+    },
+    {
+      "link": "https://www.public-cyprus.com.cy/product/microsoft-xbox-series-x/prod10724537pp/",
       "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']",
       "mute": false
     },
