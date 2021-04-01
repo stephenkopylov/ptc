@@ -2,6 +2,26 @@
   "timeToWait": 300,
   "products": [
     {
+      "link": "https://www.citilink.ru/warranty/services/?action=changeCity&space=nal_cl:",
+      "xpath": "//div[@class='ProductHeader__buy-block1231231231312']",
+      "mute": true
+    },
+    {
+      "link": "https://www.citilink.ru/warranty/services/?action=changeCity&space=nal_cl:",
+      "xpath": "//div[@class='ProductHeader__buy-block1231231231312']",
+      "mute": true
+    },
+    {
+      "link": "https://www.citilink.ru/product/igrovaya-konsol-playstation-5-digital-edition-ps719398806-belyi-1438620/",
+      "xpath": "//div[@class='ProductHeader__buy-block']//div[@class='ProductHeader__buy-button']//button[@type='button']",
+      "mute": false
+    },
+    {
+      "link": "https://www.citilink.ru/product/igrovaya-konsol-playstation-5-ps719398707-belyi-1438618/",
+      "xpath": "//div[@class='ProductHeader__buy-block']//div[@class='ProductHeader__buy-button']//button[@type='button']",
+      "mute": false
+    },
+    {
       "link": "https://www.mvideo.ru/products/igrovaya-konsol-sony-playstation-5-40073270?cityId=CityR_38",
       "xpath": "//div[@class='o-container__price-column']//input[@data-init='addToBasket']",
       "mute": false
