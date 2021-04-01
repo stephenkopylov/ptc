@@ -2,6 +2,11 @@
   "timeToWait": 300,
   "products": [
     {
+      "link": "https://www.mvideo.ru/products/igrovaya-konsol-sony-playstation-5-digital-edition-40074203?cityId=CityR_38",
+      "xpath": "//div[@class='o-container__price-column']//input[@data-init='addToBasket']",
+      "mute": true
+    },
+    {
       "link": "https://sonycentercy.com/playstation-5/2190-sony-pulse-3d-wireless-headset-0711719387800.html",
       "xpath": "//div[@class='product-information']//button[@class='btn btn-primary add-to-cart'][not(@disabled)]",
       "mute": true
