@@ -2,6 +2,11 @@
   "timeToWait": 300,
   "products": [
     {
+      "link": "https://www.public-cyprus.com.cy/product/home/oikiakes-mikrosyskeyes/proetoimasia-fagitoy/mplenter-polykoftes/koptirio-multi-izzy-plus-500w/prod9720220pp/",
+      "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']",
+      "mute": false
+    },
+    {
       "link": "https://www.citilink.ru/warranty/services/?action=changeCity&space=nal_cl:",
       "xpath": "//div[@class='ProductHeader__buy-block1231231231312']",
       "mute": true
