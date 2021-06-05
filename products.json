@@ -44,7 +44,7 @@
     {
       "link": "https://www.public-cyprus.com.cy/product/microsoft-xbox-series-x/prod10724537pp/",
       "xpath": "//div[@class='container']//a[@class='btn btn-orange btn-block btn-add-to-cart']",
-      "mute": false
+      "mute": true
     },
     {
       "link": "https://sonycentercy.com/playstation-5/2187-sony-playstation-5-digital-edition-0711719395102.html",
